@@ -35,9 +35,9 @@
 
 [MNIST database recognition](https://github.com/LeslyMontufar/MultilayerNetwork) - C code to recognize numbers of the MNIST database
 
-[IA learning](https://leslymontufar.github.io/site/) - Using Adaline and Multi Layer Perceptron approach as IA to do a functional approximation of a given function.
+[IA learning](https://leslymontufar.github.io/site/) - Using Adaline and Multi Layer Perceptron approach as IA to do a functional approximation for a sample set
 
-[Interference simulation of ERBs](https://github.com/LeslyMontufar/redes_moveis_interferencias) - Interference level between ERBs. The idea is to continue with a web page to better understand of the scenario. 
+[Interference simulation of ERBs](https://github.com/LeslyMontufar/redes_moveis_interferencias) - Interference level between ERBs. The idea is to continue building with a web page to a better understand of the scenario. 
 
 [Chess Clock PCB project](https://github.com/LeslyMontufar/chess_clock) - The PCB and fingerprints are done, I'm pending on developing the chess clock code to complete this project.
 
@@ -47,7 +47,7 @@
 
 [My profile for programming tests 🙂](https://leslymontufar.github.io/) - I used this beautiful template as a page to pratice and host my programming projects
 
-[LACE website](https://laceufu.github.io/) - After learning PHP, MySQL, HTML and CSS, I saw this formal Jekyll template and how it is easy to update and add new things that I decided to use it for LACE marketing purpose.
+[LACE website](https://laceufu.github.io/) - After learning PHP, MySQL, HTML and CSS, I saw this formal Jekyll template and how it is so easier to update and add new things, that I decided to use it for LACE marketing purpose.
 
 #### Embedded Systems Projects:
 [Conveyor](https://github.com/LeslyMontufar/Esteira) 
